@@ -4,11 +4,11 @@
 - `npm install`
 - `node image-capture.js`
 
-This script calls is a WIP.
+This script is a WIP.
 
 Is currently a place holder for our other code.
 
-## What doe sthis script do?
+## What does this script do?
 Calls our web cam script to capture images every 5 seconds.
 
 Makes our request to our Tensorflow application to decide whether it is mail or and ad.
